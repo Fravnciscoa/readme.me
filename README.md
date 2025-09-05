@@ -21,4 +21,4 @@ TypeScript · Angular · Ionic · Capacitor · Node.js · Express · Python · F
 Código limpio, READMEs claros, pruebas básicas automáticas, y foco en entregar algo que corra sin dolor.
 
 ## 📫 Contacto
-LinkedIn: (agrega tu link) · Email: (agrega tu correo)
+LinkedIn: https://www.linkedin.com/in/fravncisco/ · Email: fravn.saavedra@gmail.com
