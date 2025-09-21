@@ -1,6 +1,6 @@
 # 👋 Hola, soy Francisco
 
-Estudiante de Ing. Informática (PUCV, Chile) enfocado en **web/móvil (Ionic + Angular)**, **backend (Node/Flask)** y **PostgreSQL**. Me gustan los proyectos con impacto real en la vida universitaria y el aprendizaje aplicable.
+Estudiante de Ing. Informática (PUCV, Chile) enfocado en **web/móvil (Ionic + Angular)**, **backend (Node/Flask)** y **PostgreSQL**. Me gustan los proyectos con impacto real en la vida y vida universitaria y el aprendizaje aplicable.
 
 ## 🚀 Ahora
 - Construyendo **Marketplace Universitario** (reservas, reputación, geolocalización).  
